@@ -1,16 +1,12 @@
-### Hi there 👋
+### My CVEs
 
-<!--
-**tuando243/tuando243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CVE-2022-26244\
+CVE-2022-28589\
+CVE-2022-28590\
+CVE-2022-29011\
+CVE-2022-30899\
+CVE-2022-31325\
+CVE-2022-34040\
+CVE-2022-35569\
+CVE-2022-36600\
+CVE-2022-37679
